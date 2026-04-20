@@ -20,10 +20,4 @@
 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-<!-- # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=maverick0x&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=maverick0x&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=maverick0x&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
--->
 ![maverick0x's Streak](https://github-readme-streak-stats.herokuapp.com/?user=maverick0x&theme=gruvbox&hide_border=true)
-![maverick0x's Stats](https://github-readme-stats.vercel.app/api?username=maverick0x&theme=gruvbox&show_icons=true&hide_border=true&count_private=true)
